@@ -1,4 +1,11 @@
 ## Welcome to GitHub Pages
+tilte: IT Dream
+description: "IT Dream bulid with Jekyll."
+url: "http://SeongjipMoon.github.io"
+author:
+  name: "Moon. S.J."
+  email: "pcs06019@naver.com"
+  url: "http://SeongjipMoon.github.io"
 
 You can use the [editor on GitHub](https://github.com/SeongjipMoon/SeongjipMoon.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
